@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: posts
-          image: psyhiro/posts:0.0.1
+          image: psyhiro/posts
